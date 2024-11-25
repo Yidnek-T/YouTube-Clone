@@ -57,7 +57,7 @@
 
 @media (min-width: 1000px) {
   .video-grid {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 }
 
